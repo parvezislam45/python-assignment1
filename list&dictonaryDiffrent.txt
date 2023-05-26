@@ -1,0 +1,16 @@
+List
+
+* List is one type of built-in data structure in python that is used to store an ordered collection of items in a single variable.
+* Write comma-separated values inside a square bracket ([ ]) to create a list in python.
+* List is ordered (There is indexing)
+* In a list, items can be accessed and manipulated using their index value.
+* Dictionaries are faster when searching for items based on their keys
+
+
+Dictionaries
+
+* A dictionary is a built-in data structure in python that is used to store an unordered collection of items in the form of a key: value pair.
+* To create a dictionary in python write comma-separated data in form of a key: value pair inside the curly bracket ({ }).
+* Dictionary is unordered (There is no indexing).
+* In a dictionary, items can only be accessed using their keys.
+* Lists are faster when accessing items based on their index.
